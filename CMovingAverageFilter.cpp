@@ -2,7 +2,7 @@
  * CMovingAverageFilter.cpp
  *
  *  Created on: 2022. 3. 8.
- *      Author: user
+ *      Author: ingu Choi
  */
 
 #include "CMovingAverageFilter.h"
